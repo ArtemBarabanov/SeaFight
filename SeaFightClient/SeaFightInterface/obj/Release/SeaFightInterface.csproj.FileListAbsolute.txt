@@ -1,0 +1,31 @@
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFightInterface\SeaFightInterface\bin\Release\Resources\Плюх.wav
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFightInterface\SeaFightInterface\bin\Release\Resources\Чайка.wav
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFightInterface\SeaFightInterface\bin\Release\Resources\Взрыв.wav
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFightInterface\SeaFightInterface\bin\Release\Resources\Выстрел.wav
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFightInterface\SeaFightInterface\bin\Release\Морской бой.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFightInterface\SeaFightInterface\bin\Release\Морской бой.exe
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFightInterface\SeaFightInterface\bin\Release\Морской бой.pdb
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFightInterface\SeaFightInterface\bin\Release\System.ValueTuple.dll
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFightInterface\SeaFightInterface\bin\Release\System.ValueTuple.xml
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFightInterface\SeaFightInterface\obj\Release\SeaFightInterface.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFightInterface\SeaFightInterface\obj\Release\SeaFightInterface.csproj.GenerateResource.cache
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFightInterface\SeaFightInterface\obj\Release\SeaFightInterface.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFightInterface\SeaFightInterface\obj\Release\SeaFightInterface.csproj.CopyComplete
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFightInterface\SeaFightInterface\obj\Release\Морской бой.exe
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFightInterface\SeaFightInterface\obj\Release\Морской бой.pdb
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFightInterface\SeaFightInterface\obj\Release\SeaFightInterface.csprojAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFightInterface\SeaFightInterface\bin\Release\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFightInterface\SeaFightInterface\bin\Release\Newtonsoft.Json.dll
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFightInterface\SeaFightInterface\bin\Release\Microsoft.AspNet.SignalR.Client.pdb
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFightInterface\SeaFightInterface\bin\Release\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFightInterface\SeaFightInterface\bin\Release\Newtonsoft.Json.xml
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFightInterface\SeaFightInterface\obj\Release\SeaFightInterface.GameForm.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFightInterface\SeaFightInterface\obj\Release\SeaFightInterface.StartForm.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\obj\Release\SeaFightInterface.csprojAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\obj\Release\SeaFightInterface.GameForm.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\obj\Release\SeaFightInterface.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\obj\Release\SeaFightInterface.StartForm.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\obj\Release\SeaFightInterface.csproj.GenerateResource.cache
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\obj\Release\SeaFightInterface.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\obj\Release\Морской бой.exe
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\obj\Release\Морской бой.pdb

@@ -1,0 +1,23 @@
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\obj\Debug\SeaFight.csprojAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\obj\Debug\SeaFightInterface.GameForm.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\obj\Debug\SeaFightInterface.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\obj\Debug\SeaFightInterface.StartForm.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\obj\Debug\SeaFight.csproj.GenerateResource.cache
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\obj\Debug\SeaFight.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\obj\Debug\Морской бой.exe
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\obj\Debug\Морской бой.pdb
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\bin\Debug\Resources\Плюх.wav
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\bin\Debug\Resources\Чайка.wav
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\bin\Debug\Resources\Взрыв.wav
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\bin\Debug\Resources\Выстрел.wav
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\bin\Debug\Морской бой.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\bin\Debug\Морской бой.exe
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\bin\Debug\Морской бой.pdb
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\bin\Debug\System.ValueTuple.dll
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\bin\Debug\System.ValueTuple.xml
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\obj\Debug\SeaFight.csproj.CopyComplete
