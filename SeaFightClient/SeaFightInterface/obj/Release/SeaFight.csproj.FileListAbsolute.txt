@@ -21,3 +21,26 @@ C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFig
 C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\obj\Release\Морской бой.exe
 C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\obj\Release\Морской бой.pdb
 C:\Users\Администратор\Documents\Visual Studio 2017\Projects\SeaFight\SeaFightInterface\obj\Release\SeaFight.csprojAssemblyReference.cache
+D:\PetProjects\SeaFight\SeaFightClient\SeaFightInterface\bin\Release\Resources\Плюх.wav
+D:\PetProjects\SeaFight\SeaFightClient\SeaFightInterface\bin\Release\Resources\Чайка.wav
+D:\PetProjects\SeaFight\SeaFightClient\SeaFightInterface\bin\Release\Resources\Взрыв.wav
+D:\PetProjects\SeaFight\SeaFightClient\SeaFightInterface\bin\Release\Resources\Выстрел.wav
+D:\PetProjects\SeaFight\SeaFightClient\SeaFightInterface\bin\Release\Морской бой.exe.config
+D:\PetProjects\SeaFight\SeaFightClient\SeaFightInterface\bin\Release\Морской бой.exe
+D:\PetProjects\SeaFight\SeaFightClient\SeaFightInterface\bin\Release\Морской бой.pdb
+D:\PetProjects\SeaFight\SeaFightClient\SeaFightInterface\bin\Release\Microsoft.AspNet.SignalR.Client.dll
+D:\PetProjects\SeaFight\SeaFightClient\SeaFightInterface\bin\Release\Newtonsoft.Json.dll
+D:\PetProjects\SeaFight\SeaFightClient\SeaFightInterface\bin\Release\System.ValueTuple.dll
+D:\PetProjects\SeaFight\SeaFightClient\SeaFightInterface\bin\Release\Microsoft.AspNet.SignalR.Client.pdb
+D:\PetProjects\SeaFight\SeaFightClient\SeaFightInterface\bin\Release\Microsoft.AspNet.SignalR.Client.xml
+D:\PetProjects\SeaFight\SeaFightClient\SeaFightInterface\bin\Release\Newtonsoft.Json.xml
+D:\PetProjects\SeaFight\SeaFightClient\SeaFightInterface\bin\Release\System.ValueTuple.xml
+D:\PetProjects\SeaFight\SeaFightClient\SeaFightInterface\obj\Release\SeaFight.csproj.AssemblyReference.cache
+D:\PetProjects\SeaFight\SeaFightClient\SeaFightInterface\obj\Release\SeaFightInterface.GameForm.resources
+D:\PetProjects\SeaFight\SeaFightClient\SeaFightInterface\obj\Release\SeaFightInterface.Properties.Resources.resources
+D:\PetProjects\SeaFight\SeaFightClient\SeaFightInterface\obj\Release\SeaFightInterface.StartForm.resources
+D:\PetProjects\SeaFight\SeaFightClient\SeaFightInterface\obj\Release\SeaFight.csproj.GenerateResource.cache
+D:\PetProjects\SeaFight\SeaFightClient\SeaFightInterface\obj\Release\SeaFight.csproj.CoreCompileInputs.cache
+D:\PetProjects\SeaFight\SeaFightClient\SeaFightInterface\obj\Release\SeaFight.csproj.CopyComplete
+D:\PetProjects\SeaFight\SeaFightClient\SeaFightInterface\obj\Release\Морской бой.exe
+D:\PetProjects\SeaFight\SeaFightClient\SeaFightInterface\obj\Release\Морской бой.pdb

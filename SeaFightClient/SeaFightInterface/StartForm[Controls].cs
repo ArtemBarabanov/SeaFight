@@ -188,6 +188,8 @@ namespace SeaFightInterface
             Message.Dispose();
             SendMessage.Dispose();
             PlayersGrid.Dispose();
+            MessageLabel.Dispose();
+            NameLabel.Dispose();
             StatusBox = null;
             Register = null;
             Back = null;
